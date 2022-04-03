@@ -23,7 +23,7 @@ import (
 //  https://api.github.com/repos/easymotion/vim-easymotion/check-runs: 422
 //  Invalid request.
 //  Only 65535 characters are allowed; 250684 were supplied. []
-const maxFilteredFinding = 80
+const maxFilteredFinding = 40
 
 // > The Checks API limits the number of annotations to a maximum of 50 per API
 // > request.
